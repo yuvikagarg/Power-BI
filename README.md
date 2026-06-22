@@ -136,6 +136,6 @@ Through this project, I gained hands-on experience in:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](https://github.com/yuvikagarg/Power-BI/blob/main/Ecommerce%20sales%20data-PowerBi.png)
 
 ---
